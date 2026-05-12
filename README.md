@@ -32,9 +32,9 @@ hello, IrulTsx is here..</h1>
 ## Connect
 
 <p>
-  <a href="https://instagram.com/USERNAME_KAMU">Instagram</a> •
-  <a href="https://linkedin.com/in/USERNAME_KAMU">LinkedIn</a> •
-  <a href="mailto:emailkamu@gmail.com">Email</a>
+  <a href="https://www.instagram.com/irull.jpg156?igsh=MWJ0YzN4eDBianVldg==">Instagram</a> 
+  <a href="https://www.linkedin.com/in/khoirul-huda-1a8080393/">LinkedIn</a> 
+  <a href="mailto:rahulkhoirulhuda@gmail.com">Email</a>
 </p>
 
 ---
