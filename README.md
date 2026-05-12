@@ -15,7 +15,7 @@ hello, IrulTsx is here..</h1>
 
 - 🎓 Information Technology Student
 - 💻 Focus on Web Development & Software Engineering
-- 🌱 Currently learning Artificial Intelligence & Backend Development
+- 🌱 Currently learning Backend Development
 - 🚀 Interested in building impactful technology
 
 ---
@@ -23,7 +23,7 @@ hello, IrulTsx is here..</h1>
 ## Focuss Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,nodejs,php,laravel,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,nodejs,php,laravel,python,github,vscode" />
 </p>
 
 ---
