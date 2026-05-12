@@ -22,7 +22,7 @@
 ## Focuss Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,php,laravel,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,nodejs,php,laravel,github,vscode" />
 </p>
 
 ---
