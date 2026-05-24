@@ -2,7 +2,7 @@
 hello, IrulTsx is here..</h1>
 
 <p align="center">
-  Software Engineering Enthusiast
+  Backend Engineering Enthusiast
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@ hello, IrulTsx is here..</h1>
 ## About
 
 - 🎓 Information Technology Student
-- 💻 Focus on Web Development & Software Engineering
+- 💻 Focus on Software Engineering
 - 🌱 Currently learning Backend Development
 - 🚀 Interested in building impactful technology
 
