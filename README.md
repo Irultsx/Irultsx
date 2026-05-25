@@ -23,7 +23,7 @@ hello, IrulTsx is here..</h1>
 ## 💻Focuss Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,php,Laravel,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=python,php,laravel,github,vscode,linux" />
 </p>
 
 ---
