@@ -14,8 +14,8 @@ hello, IrulTsx is here..</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&lines=Backend+Enthusiast+🎨;Back-End+Developer+💻;Software+Engineer+🚀" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=FF10F0&center=true&vCenter=true&lines=siast+🎨;Back-End+💻;Software+Engineer+🚀+Enthusiast" alt="Typing SVG" />
+</a>
 </p>
 </div>
 
