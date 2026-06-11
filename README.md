@@ -41,7 +41,7 @@ hello, IrulTsx is here..</h1>
 ## 💻Learn Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,php,javascript,nodejs,laravel,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,python,php,javascript,nodejs,laravel,github,vscode,linux" />
 </p>
 
 ---
