@@ -11,16 +11,14 @@ hello, IrulTsx is here..</h1>
 ╚██████╔╝ ╚██████╔╝ ██║  ██║ ███████╗ ╚██████╗  ╚██████╔╝ ██║ ╚═╝ ██║ 
  ╚══▀▀═╝   ╚═════╝  ╚═╝  ╚═╝ ╚══════╝  ╚═════╝   ╚═════╝  ╚═╝     ╚═╝ 
 </pre>
+<div class="typing">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jet+Brains+Mono&pause=1000&color=F7429E&center=true&width=435&lines=Khoirul+Huda;Always+Learn+And+Repeat+;Focus+On+Full+Stack+Developer" alt="Typing SVG" /></a>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&lines=Backend+Enthusiast+💻;Software+Engineer+🚀" alt="Typing SVG" />
-  </a>
-</p>
 </div>
 
+
 <p align="center">
-  Backend Engineering Enthusiast
+  Focus On Full-Stack Developer 
 </p>
 
 <p align="center">
@@ -33,7 +31,7 @@ hello, IrulTsx is here..</h1>
 
 - 🎓 Information Technology Student
 - 💻 Focus on Software Engineering
-- 🌱 Currently learning Backend Development
+- 🌱 Currently learning Front End 
 - 🚀 Interested in building impactful technology
 
 ---
@@ -41,7 +39,7 @@ hello, IrulTsx is here..</h1>
 ## 💻Learn Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,python,php,javascript,nodejs,laravel,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,python,php,javascript,github,vscode,linux" />
 </p>
 
 ---
@@ -59,6 +57,6 @@ hello, IrulTsx is here..</h1>
 
 <p align="center">
   <sub>
-    "Keep learning, keep building."
+    "Creativity is intelligence having fun."
   </sub>
 </p>
