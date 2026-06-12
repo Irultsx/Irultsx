@@ -11,10 +11,8 @@ hello, IrulTsx is here..</h1>
 ╚██████╔╝ ╚██████╔╝ ██║  ██║ ███████╗ ╚██████╗  ╚██████╔╝ ██║ ╚═╝ ██║ 
  ╚══▀▀═╝   ╚═════╝  ╚═╝  ╚═╝ ╚══════╝  ╚═════╝   ╚═════╝  ╚═╝     ╚═╝ 
 </pre>
-<div class="typing">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jet+Brains+Mono&pause=1000&color=F7429E&center=true&width=435&lines=Khoirul+Huda;Always+Learn+And+Repeat+;Focus+On+Full+Stack+Developer" alt="Typing SVG" /></a>
 
-</div>
 
 
 <p align="center">
