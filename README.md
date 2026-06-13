@@ -33,7 +33,7 @@ hello, IrulTsx is here..</h1>
 - 🚀 Interested in building impactful technology
 
 ---
-
+<h1> --- Last update: 2026-06-12 21:16 WIB ----</h1>
 ## 💻Learn Tech Stack
 
 <p>
