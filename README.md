@@ -16,7 +16,7 @@ My learning journey spans both sides of the development process: crafting intera
 - 🚀 Interested in building impactful technology
 
 ---
-<h1> --- Last update: 2026-06-12 21:16 WIB ----</h1>
+<h1> --- Last update: 2026-06-12 21:16 WIB ---</h1>
 <h2> 💻Learn Tech Stack</h2>
 
 <p>
