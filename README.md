@@ -20,7 +20,7 @@ hello, IrulTsx is here..</h1>
 
 ---
 <h1> --- Last update: 2026-06-12 21:16 WIB ----</h1>
-## 💻Learn Tech Stack
+<h2> 💻Learn Tech Stack</h2>
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,javascript,python,php,javascript,github,vscode,linux" />
