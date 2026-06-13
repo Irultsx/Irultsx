@@ -28,8 +28,7 @@ hello, IrulTsx is here..</h1>
 
 ---
 
-
-## Connect
+<h2>Connect With Me</h2>
 
 <p>
   <a href="https://www.instagram.com/irull.jpg156?igsh=MWJ0YzN4eDBianVldg==">Instagram</a> 
