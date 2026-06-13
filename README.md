@@ -23,7 +23,7 @@ hello, IrulTsx is here..</h1>
 <h2> 💻Learn Tech Stack</h2>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,python,php,javascript,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,python,php,javascript,github,vscode,linux" />
 </p>
 
 ---
