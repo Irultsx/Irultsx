@@ -26,20 +26,6 @@ My learning journey spans both sides of the development process: crafting intera
 
 ---
 
-<h3 align="center">Connect With Me</h3>
-<p align="center">
-  <a href="https://www.instagram.com/irull.jpg156?igsh=MWJ0YzN4eDBianVldg==" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/khoirul-huda-606363416/" target="_blank">
-    <img src="https://skillicons.dev/icons5?i=linkedin" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:rahulkhoirulhuda@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
-  </a>
-</p>
 
 ---
 
