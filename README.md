@@ -1,13 +1,9 @@
 <div align="center">
   <!-- Banner Header ala Satria Bahari -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=Hi%20there,%20I'm%20IrulTsx&fontSize=28&fontColor=ffffff&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&section=header&reversal=true&text=Khoirul+Huda+&textBg=false&fontSize=70&fontAlign=50&fontAlignY=40&rotate=0&strokeWidth=0&desc=Computer+Engineering+Technology+Student+And+Full-Stack+Learner&descSize=24&descAlign=50&descAlignY=90" />
 </div>
 
-<p align="center">
-  <b>A passionate Computer Engineering Technology student & Full-Stack Learner</b>
-</p>
-
----
+<hr>
 
 <p align="justify">
 I am a tech enthusiast with a deep curiosity and a constant drive to learn new things. Currently a Computer Engineering Technology student, my main focus is on mastering Full-Stack Development, and I am actively in the learning phase of building complete, end-to-end applications.
@@ -30,13 +26,13 @@ My learning journey spans both sides of the development process: crafting intera
 ### 💻 Core Tech Stacks
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nodejs,python,php" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,python,php" />
 </p>
 
 ### 🛠️ Other Tech Stacks
 
 <p>
-  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,express,mongodb,firebase,mysql,cpp,linux,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=bootstrap,linux" />
 </p>
 
 ### 🧰 Tools
@@ -50,8 +46,9 @@ My learning journey spans both sides of the development process: crafting intera
 ### 📊 Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=irultsx&show_icons=true&theme=radical&hide_border=true&bg_color=171515" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irultsx&layout=compact&theme=radical&hide_border=true&bg_color=171515" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=irultsx&theme=monokai&show_icons=true&hide_border=true&count_private=true" /> <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=irultsx&theme=monokai&hide_border=true" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irultsx&theme=monokai&show_icons=true&hide_border=true&layout=compact">
 </div>
 
 ---
