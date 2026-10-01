@@ -1,9 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=Hello,%20IrulTsx%20is%20here!&fontSize=28&fontColor=ffffff&animation=fadeIn" width="100%" />
+  <!-- Dynamic Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,4,6&height=110&section=header&text=Hi%20there,%20I'm%20IrulTsx!%20⚡&fontSize=26&fontColor=fff&fontAlignY=50&animation=fadeIn" width="100%" />
 </div>
 
 <p align="center">
-  <em>Computer Engineering Technology Student &bull; Passionate Full-Stack Learner</em>
+  <img src="https://komarev.com/ghpvc/?username=irultsx&color=blueviolet&style=flat-square&label=Profile+Visits" alt="visitor count" />
+  <img src="https://img.shields.io/badge/Status-Exploring%20%26%20Building-success?style=flat-square&logo=appveyor" alt="status" />
 </p>
 
 ---
@@ -11,38 +13,54 @@
 ### 💻 About Me
 
 <p align="justify">
-I am a passionate tech enthusiast with a deep curiosity and a constant drive to learn new things. Currently a Computer Engineering Technology student, my main focus is on mastering Full-Stack Development, and I am actively in the learning phase of building complete, end-to-end applications.
+  Hello! I am a passionate tech enthusiast and a <b>Computer Engineering Technology</b> student who loves diving deep into the core of systems and code. I view the tech world as an endless sandbox—always curious, constantly tinkering, and eagerly exploring how things work from hardware to software.
 </p>
 
 <p align="justify">
-My learning journey spans both sides of the development process: crafting interactive and dynamic user interfaces on the frontend (using technologies like React), and building robust system logic, managing databases, and creating Python-based tools on the backend. Beyond web development, I enjoy challenging my problem-solving skills through competitive programming in C++, exploring network fundamentals, and experimenting with hardware systems.
+  My journey revolves around building full-stack applications, solving logic puzzles with C++, and bridging the gap between low-level understanding and modern web technologies. I love breaking things down, learning from documentation, and putting them back together better!
 </p>
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### ⚡ What I Love Doing
+- 🌐 **Full-Stack Exploring:** Crafting interactive interfaces & building backend system logic.
+- ⚙️ **Hardware & Low-Level:** Experimenting with system fundamentals and networking.
+- 🧩 **Problem Solving:** Sharpening logical thinking through competitive programming (C++).
+- 📚 **Continuous Learning:** Reading technical docs and testing out new tech stacks.
+
+---
+
+### 🛠️ Tech Stack & Playground
 
 <div align="center">
 
-| Category | Technologies |
-| :--- | :---|
+| Category | Technologies & Tools |
+| :--- | :--- |
 | **Languages** | `JavaScript`, `Python`, `PHP`, `C++` |
 | **Frontend** | `HTML5`, `CSS3`, `Bootstrap`, `React` |
-| **Backend & Tools** | `Node.js`, `Git`, `GitHub`, `VS Code`, `Linux` |
+| **Backend & Cloud** | `Node.js`, `Firebase`, `Google Cloud Run` |
+| **Environment & Tools** | `Linux`, `Git`, `GitHub`, `VS Code` |
 
 </div>
 
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,python,cpp,php,react,nodejs,firebase,linux,git,github,vscode" alt="Tech Stack Icons" />
+</p>
+
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=irultsx&show_icons=true&theme=vue-dark&hide_border=true&bg_color=171515" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=irultsx&show_icons=true&theme=radical&hide_border=true&bg_color=171515&text_color=f0f6fc&icon_color=58a6ff" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irultsx&layout=compact&theme=radical&hide_border=true&bg_color=171515&text_color=f0f6fc" alt="Top Languages" />
 </div>
 
 ---
 
-### 🌐 Connect With Me
+### 🌐 Let's Connect
 
 <p align="center">
   <a href="https://www.instagram.com/irull.jpg156?igsh=MWJ0YzN4eDBianVldg==" target="_blank">
@@ -62,7 +80,7 @@ My learning journey spans both sides of the development process: crafting intera
 
 <div align="center">
   <sub>
-    <em>"Creativity is intelligence having fun."</em>
+    <em>"Creativity is intelligence having fun. Keep exploring, keep building!"</em>
   </sub>
   <br><br>
   <sub>--- Last update: 2026-06-12 ---</sub>
