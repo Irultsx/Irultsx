@@ -6,11 +6,11 @@
 <hr>
 
 <p align="justify">
-I am a tech enthusiast with a deep curiosity and a constant drive to learn new things. Currently a Computer Engineering Technology student, my main focus is on mastering Full-Stack Development, and I am actively in the learning phase of building complete, end-to-end applications.
+I am Khoirul Huda, a student from Samarinda currently in the early stages of an intensive learning journey to become a Software Engineer/Full Stack Developer. I have a strong interest in web development and am passionate about mastering the JavaScript ecosystem—spanning both frontend and backend—from the fundamentals to advanced concepts.
 </p>
 
 <p align="justify">
-My learning journey spans both sides of the development process: crafting interactive and dynamic user interfaces on the frontend, and building robust system logic, managing databases, and creating Python-based tools on the backend. I view the tech world as a vast playground, loving to tinker with code and explore new technologies!
+My current focus is building a solid foundation in designing functional, user-friendly web applications, while exploring and experimenting with modern tools like React. As someone eager to learn, I enjoy every step of the learning process and the new challenges the tech world offers. I am an open-minded team player who values ​​collaboration and is always ready to listen to feedback in order to grow into a better developer.
 </p>
 
 <!-- Badge Kontak Kecil -->
