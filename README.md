@@ -1,87 +1,61 @@
 <div align="center">
-  <!-- Dynamic Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,4,6&height=110&section=header&text=Hi%20there,%20I'm%20IrulTsx!%20⚡&fontSize=26&fontColor=fff&fontAlignY=50&animation=fadeIn" width="100%" />
+  <!-- Banner Header ala Satria Bahari -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=Hi%20there,%20I'm%20IrulTsx&fontSize=28&fontColor=ffffff&animation=fadeIn" width="100%" />
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=irultsx&color=blueviolet&style=flat-square&label=Profile+Visits" alt="visitor count" />
-  <img src="https://img.shields.io/badge/Status-Exploring%20%26%20Building-success?style=flat-square&logo=appveyor" alt="status" />
+  <b>A passionate Computer Engineering Technology student & Full-Stack Learner</b>
 </p>
 
 ---
 
-### 💻 About Me
-
 <p align="justify">
-  Hello! I am a passionate tech enthusiast and a <b>Computer Engineering Technology</b> student who loves diving deep into the core of systems and code. I view the tech world as an endless sandbox—always curious, constantly tinkering, and eagerly exploring how things work from hardware to software.
+I am a tech enthusiast with a deep curiosity and a constant drive to learn new things. Currently a Computer Engineering Technology student, my main focus is on mastering Full-Stack Development, and I am actively in the learning phase of building complete, end-to-end applications.
 </p>
 
 <p align="justify">
-  My journey revolves around building full-stack applications, solving logic puzzles with C++, and bridging the gap between low-level understanding and modern web technologies. I love breaking things down, learning from documentation, and putting them back together better!
+My learning journey spans both sides of the development process: crafting interactive and dynamic user interfaces on the frontend, and building robust system logic, managing databases, and creating Python-based tools on the backend. I view the tech world as a vast playground, loving to tinker with code and explore new technologies!
+</p>
+
+<!-- Badge Kontak Kecil -->
+<p align="center">
+  <a href="mailto:rahulkhoirulhuda@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.instagram.com/irull.jpg156"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/khoirul-huda-606363416/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=irultsx&color=blueviolet&style=flat-square&label=Profile+Views" />
 </p>
 
 ---
 
-### ⚡ What I Love Doing
-- 🌐 **Full-Stack Exploring:** Crafting interactive interfaces & building backend system logic.
-- ⚙️ **Hardware & Low-Level:** Experimenting with system fundamentals and networking.
-- 🧩 **Problem Solving:** Sharpening logical thinking through competitive programming (C++).
-- 📚 **Continuous Learning:** Reading technical docs and testing out new tech stacks.
+### 💻 Core Tech Stacks
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nodejs,python,php" />
+</p>
+
+### 🛠️ Other Tech Stacks
+
+<p>
+  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,express,mongodb,firebase,mysql,cpp,linux,git,github,vscode" />
+</p>
+
+### 🧰 Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,linux" />
+</p>
 
 ---
 
-### 🛠️ Tech Stack & Playground
+### 📊 Statistics
 
 <div align="center">
-
-| Category | Technologies & Tools |
-| :--- | :--- |
-| **Languages** | `JavaScript`, `Python`, `PHP`, `C++` |
-| **Frontend** | `HTML5`, `CSS3`, `Bootstrap`, `React` |
-| **Backend & Cloud** | `Node.js`, `Firebase`, `Google Cloud Run` |
-| **Environment & Tools** | `Linux`, `Git`, `GitHub`, `VS Code` |
-
+  <img src="https://github-readme-stats.vercel.app/api?username=irultsx&show_icons=true&theme=radical&hide_border=true&bg_color=171515" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irultsx&layout=compact&theme=radical&hide_border=true&bg_color=171515" alt="Top Languages" />
 </div>
 
-<br>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,python,cpp,php,react,nodejs,firebase,linux,git,github,vscode" alt="Tech Stack Icons" />
-</p>
-
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=irultsx&show_icons=true&theme=radical&hide_border=true&bg_color=171515&text_color=f0f6fc&icon_color=58a6ff" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irultsx&layout=compact&theme=radical&hide_border=true&bg_color=171515&text_color=f0f6fc" alt="Top Languages" />
-</div>
-
----
-
-### 🌐 Let's Connect
-
-<p align="center">
-  <a href="https://www.instagram.com/irull.jpg156?igsh=MWJ0YzN4eDBianVldg==" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/khoirul-huda-606363416/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:rahulkhoirulhuda@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
-
 ---
 
 <div align="center">
-  <sub>
-    <em>"Creativity is intelligence having fun. Keep exploring, keep building!"</em>
-  </sub>
-  <br><br>
-  <sub>--- Last update: 2026-06-12 ---</sub>
+  <sub>✨ "Creativity is intelligence having fun." ✨</sub>
 </div>
