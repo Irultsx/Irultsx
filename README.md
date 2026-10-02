@@ -1,6 +1,8 @@
 <div align="center">
   <!-- Banner Header ala Satria Bahari -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&section=header&reversal=true&text=Khoirul+Huda+&textBg=false&fontSize=70&fontAlign=50&fontAlignY=40&rotate=0&strokeWidth=0&desc=Computer+Engineering+Technology+Student+And+Full-Stack+Learner&descSize=24&descAlign=50&descAlignY=90" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=4A0E4E,2C0A31,0F0311&section=header&reversal=false&text=Hi+I%2CM+Khoirul+Huda&fontSize=70&fontAlign=50&fontAlignY=40&fontColor=ffd700&animation=fadeIn&rotate=0&strokeWidth=0&desc=A+Computer+Engineering+Technology+Student+and+Learn+Full+Stack+&descSize=25&descAlign=50&descAlignY=90&descColor=ffd700" />
+</p>
 </div>
 
 <hr>
@@ -32,7 +34,7 @@ My current focus is building a solid foundation in designing functional, user-fr
 ### 🛠️ Other Tech Stacks
 
 <p>
-  <img src="https://skillicons.dev/icons?i=bootstrap,linux" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" />
 </p>
 
 ### 🧰 Tools
