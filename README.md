@@ -1,9 +1,4 @@
-<div align="center">
-  <!-- Banner Header ala Satria Bahari -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=4A0E4E,2C0A31,0F0311&section=header&reversal=false&text=Hi+I%2CM+Khoirul+Huda&fontSize=70&fontAlign=50&fontAlignY=40&fontColor=ffd700&animation=fadeIn&rotate=0&strokeWidth=0&desc=A+Computer+Engineering+Technology+Student+and+Learn+Full+Stack+&descSize=25&descAlign=50&descAlignY=90&descColor=ffd700" />
-</p>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4d0026,100:ff0080&height=150&text=Hi,%20I'm%20Khoirul%20Huda&fontSize=50&fontColor=fdd935&fontAlignY=45&animation=twinkling&desc=Computer%20Engineering%20Technology%20%20Student&descSize=30&descAlignY=85&section=header" /> 
 
 <hr>
 
@@ -55,6 +50,7 @@ My current focus is building a solid foundation in designing functional, user-fr
 
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4d0026,100:ff0080&height=100&section=footer" />
 <div align="center">
   <sub>✨ "Creativity is intelligence having fun." ✨</sub>
 </div>
