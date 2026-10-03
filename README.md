@@ -22,7 +22,7 @@ My current focus is building a solid foundation in designing functional, user-fr
 
 ### 💻 Core Tech Stacks
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,python,php,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,python,php" />
 </p>
 
 ### 💻 Core Tech Stacks
