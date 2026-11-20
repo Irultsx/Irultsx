@@ -10,34 +10,6 @@ I am Khoirul Huda, a student from Samarinda currently in the early stages of an 
 My current focus is building a solid foundation in designing functional, user-friendly web applications, while exploring and experimenting with modern tools like React. As someone eager to learn, I enjoy every step of the learning process and the new challenges the tech world offers. I am an open-minded team player who values ​​collaboration and is always ready to listen to feedback in order to grow into a better developer.
 </p>
 
-<!-- Badge Kontak Kecil -->
-<p align="center">
-  <a href="mailto:rahulkhoirulhuda@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.instagram.com/irull.jpg156"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/khoirul-huda-606363416/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=irultsx&color=blueviolet&style=flat-square&label=Profile+Views" />
-</p>
-
----
-
-### 💻 Core Tech Stacks
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,python,php" />
-</p>
-
-### 💻 Core Tech Stacks
-<p>
-  <img src="https://skillicons.dev/icons?i=bootstrap" />
-</p>
-
-### 🧰 Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,linux" />
-</p>
-
----
-
 ### 📊 Statistics
 
 <div align="center">
